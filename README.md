@@ -59,8 +59,8 @@ This project was built to demonstrate proficiency in React development by creati
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd react-spreadsheet-app
+   git clone <https://github.com/i-am-bharathkumar/Excel-like-Spreadsheet-Application>
+   cd Excel-like-Spreadsheet-Application
    ```
 
 2. **Install dependencies**
@@ -218,7 +218,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Live Demo**: [Add your deployed URL here]  
-**Repository**: [Add your GitHub repository URL here]
+**Live Demo**: [https://spreadsheetapplication.netlify.app)]  
+**Repository**: [https://github.com/i-am-bharathkumar/Excel-like-Spreadsheet-Application]
 
 Built with ❤️ for the React Internship Assignment
