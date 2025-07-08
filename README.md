@@ -2,7 +2,7 @@
 
 A pixel-perfect recreation of a project management spreadsheet interface, built as part of a React internship assignment. This application replicates the exact design and functionality shown in the provided Figma mockup.
 
-![Spreadsheet Preview](https://via.placeholder.com/800x400/f3f4f6/374151?text=Project+Management+Spreadsheet)
+![Spreadsheet Preview](https://spreadsheetapplication.netlify.app)
 
 ## 🎯 Assignment Overview
 
